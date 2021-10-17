@@ -1,0 +1,16 @@
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.exe
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\bin\Debug\net5.0\ref\Exceptions.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache
