@@ -1,0 +1,16 @@
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.AssemblyInfo.cs
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.exe
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.deps.json
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.json
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.runtimeconfig.dev.json
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\bin\Debug\net5.0\ref\WhileLoops.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\bin\Debug\net5.0\WhileLoops.pdb
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\ref\WhileLoops.dll
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.pdb
+C:\Users\Ben\Desktop\open-source\C#\Start\Program Flow\WhileLoops\obj\Debug\net5.0\WhileLoops.genruntimeconfig.cache
